@@ -1,72 +1,96 @@
-# 📄 Claude Opus 4.7 System Prompt (Leaked / Observed)
+# 📄 Claude Opus 4.7 Prompt + Agentic System (Observed / Circulating)
 
-This repository contains a **publicly circulating system prompt** attributed to Anthropic’s Claude Opus 4.7 model.
+This repository contains **publicly circulating artifacts** attributed to Anthropic’s Claude ecosystem, including:
+
+- Claude Opus 4.7 system prompt  
+- Code snippets / structure related to Claude’s agentic system  
 
 > ⚠️ **Disclaimer**  
-> This prompt is **not officially released** by Anthropic. It is shared here for **research, educational, and analysis purposes only**.
+> These materials are **not officially released** by :contentReference[oaicite:0]{index=0}.  
+> They are shared strictly for **research, educational, and analysis purposes only**.
 
 ---
 
 ## 📌 About Claude Opus 4.7
 
-Claude Opus 4.7 is part of Anthropic’s Claude family of models, designed for:
+Claude Opus 4.7 is part of the Claude family of models, designed for:
 
 - Advanced reasoning and multi-step problem solving  
 - Software engineering and coding tasks  
-- Document understanding and synthesis  
-- Agentic workflows and long-horizon tasks  
+- Long-context understanding  
+- Agentic workflows (multi-step autonomous execution)
 
 ---
 
-## 📂 Contents
+## 🤖 About the Claude Agentic System
 
-- `claude-opus-4-7.txt` → Contains the extracted / leaked system prompt
+Recent discussions in the AI community highlight Claude’s **agentic capabilities**, where the model can:
+
+- Plan and execute multi-step tasks  
+- Use tools and external systems  
+- Maintain context across long workflows  
+- Act as a semi-autonomous coding / research agent  
+
+This repository includes **observed or leaked structural elements** of such a system.
+
+---
+
+## 📂 Repository Contents
+
+- `claude-opus-4-7.txt` → System prompt (observed / leaked)  
+- `agent_code/` → Code or structure attributed to Claude’s agentic system  
 
 ---
 
 ## 🎯 Purpose of This Repository
 
-This repository is intended to help:
+This repository is intended to support:
 
-- Researchers studying **LLM system prompts**
-- Developers exploring **prompt engineering patterns**
-- AI enthusiasts understanding **model behavior shaping**
-- Security researchers analyzing **prompt leakage & risks**
+- Researchers studying **LLM system prompts & alignment**
+- Developers exploring **agentic AI architectures**
+- Engineers building **tool-using AI systems**
+- Security researchers analyzing **prompt leakage & system exposure**
 
 ---
 
 ## 🔍 Why This Matters
 
-System prompts (also called **hidden instructions**) define:
+### 1. System Prompts
+System prompts define:
 
 - Model behavior and tone  
-- Safety boundaries and refusal patterns  
-- Tool usage and reasoning style  
+- Safety and refusal patterns  
+- Reasoning structure  
 
-Studying them can reveal:
+### 2. Agentic Code
+Agentic frameworks reveal:
 
-- How alignment is implemented  
-- Design patterns for controllable AI systems  
-- Potential vulnerabilities (prompt injection, leakage)
+- Planning + execution loops  
+- Tool invocation strategies  
+- Memory and context handling  
+- Orchestration patterns for AI agents  
+
+Together, they provide insight into **how modern frontier AI systems are actually built**.
 
 ---
 
 ## ⚖️ Ethical Considerations
 
-- Do **not** use this content to exploit or bypass safeguards  
-- Respect **Anthropic’s policies and intellectual property**  
-- Use responsibly for **learning and research only**
+- Do **not** use this repository to bypass safeguards or exploit systems  
+- Respect intellectual property and platform policies  
+- Use responsibly for **research, learning, and experimentation**
 
 ---
 
 ## 🚀 Usage
 
-You can use this prompt to:
+You can use this repository to:
 
-- Simulate Claude-like behavior in local LLMs  
-- Compare system prompts across models (GPT, Claude, etc.)  
-- Analyze differences in alignment strategies  
-- Build experiments around **prompt injection attacks**
+- Recreate Claude-like behavior in local LLMs  
+- Study **agentic loop design (plan → act → observe → iterate)**  
+- Compare system prompts across models (GPT vs Claude)  
+- Experiment with **AI agents and tool usage**  
+- Analyze potential vulnerabilities (prompt injection, leakage)
 
 ---
 
@@ -74,22 +98,24 @@ You can use this prompt to:
 
 - Prompt Engineering  
 - Constitutional AI  
+- AI Agents / Agentic Workflows  
 - Alignment & Safety  
-- Agentic LLM Systems  
+- Retrieval-Augmented Generation (RAG)  
 
 ---
 
 ## 🤝 Contributing
 
-Feel free to:
+Contributions are welcome:
 
-- Add analysis of the prompt  
-- Compare with other model prompts  
-- Share findings or experiments  
+- Prompt breakdowns and annotations  
+- Agent architecture analysis  
+- Comparisons with other models  
+- Security insights and research  
 
 ---
 
 ## 📜 License
 
-This repository is for **educational and research purposes only**.  
+This repository is provided for **educational and research purposes only**.  
 All rights belong to their respective owners.
